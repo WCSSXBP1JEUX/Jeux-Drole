@@ -5,12 +5,13 @@
 
 	<a class="navbar-brand"> Jeux Drôle</a>
 
+
 	<div class="hidden-xs">
 	<ul class="nav navbar-nav">
-		<li><a href="page1.php">Home</a></li>
-		<li><a href="page2.php">Créer un événement</a></li>
-		<li><a href="page4.php">Event à venir</a></li>
-		<li><a href="page3.php">Contact</a></li>
+	    <li<?php if($_GET['page']=="page1.php")   { echo " class=\"active\""; } ?>><a href="page1.php?page=page1.php">Home</a></li>
+	    <li<?php if($_GET['page']=="page2.php")   { echo " class=\"active\""; } ?>><a href="page2.php?page=page2.php">Créer un événement</a></li>
+	    <li<?php if($_GET['page']=="page4.php")  { echo " class=\"active\""; } ?>><a href="page4.php?page=page4.php">Event à venir</a></li>
+	    <li<?php if($_GET['page']=="page3.php"){ echo " class=\"active\""; } ?>><a href="page3.php?page=page3.php">Contact</a></li>
 	</ul>
 	</div>
 
@@ -65,11 +66,3 @@
 
 
 
-<!--
-	<ul class="nav navbar-nav">
-	    <li<?php if($_GET['page']=="page1.php")   { echo " class=\"active\""; } ?>><a href="?page=page1.php">Home</a></li>
-	    <li<?php if($_GET['page']=="page2.php")   { echo " class=\"active\""; } ?>><a href="?page=page2.php">Créer un événement</a></li>
-	    <li<?php if($_GET['page']=="page4.php")  { echo " class=\"active\""; } ?>><a href="?page=page4.php">Event à venir</a></li>
-	    <li<?php if($_GET['page']=="page3.php"){ echo " class=\"active\""; } ?>><a href="?page=page3.php">Contact</a></li>
-	</ul>
--->
