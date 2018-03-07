@@ -9,12 +9,17 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container">
+	<div class="container-fluid">
+
 		<header class="row">
 	
 	<?php include("navbar.php");   ?>
 
 		</header>
+
+	</div>
+
+	<div class="container">
 
 
 		<h1 class="col-lg-offset-4 col-6">Event à venir</h1>
@@ -47,11 +52,17 @@
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
+	</div>
+
+	<div class="container-fluid">	
+
 		<footer>
 			
 			<?php include("footer.php") ?>
 
 		</footer>
+
+	</div>
 
 </body>
 </html>

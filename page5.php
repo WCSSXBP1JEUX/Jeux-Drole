@@ -9,14 +9,18 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container">
+
+	<div class="container-fluid">
+
 		<header class="row">
 	
 	<?php include("navbar.php");   ?>
 
 		</header>
-	
 
+	</div>
+	
+	<div class="container">
 
 	<h3>Votre message a bien était pris en compte.</h3>
 
@@ -36,13 +40,19 @@
 			<a href="page5.php" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-plus"></span> Envoyer</a>
 
 		</form>
-	
-	
-	<footer>
-			
-		<?php include("footer.php"); ?>
 
-	</footer>		
+	</div>
+
+	<div class="container-fluid">
+	
+	
+		<footer>
+				
+			<?php include("footer.php"); ?>
+
+		</footer>
+
+	</div>		
 
 </body>
 </html>
