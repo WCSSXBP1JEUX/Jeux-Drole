@@ -23,41 +23,46 @@
 
 	<div class="container">
 
-		<h1 class="col-lg-offset-4 col-6">Créer un événement</h1>
+		<h1 class="col-lg-offset-4 col-6">Inscription à l'événement</h1>
+
+
+		<figure>
+			<img class="col-md-offset-2" src="Images/resized1.jpg">
+			<figcaption class=" well">
+				<p>Id: #Jeu_Plateau</p>
+				<p>Nom de l'event : Soirée jeu</p>
+				<p>Date : Le 15/03/18</p>
+				<p>Lieu : Chez moi</p>
+				<p>Mail de l'organisateur : monmail@gmail.com</p>
+				<p>Descriptif de l'event: Une soirée avec des jeux qu'est-ce que tu veux savoir de plus sérieux ?!</p>
+			</figcaption>
+
+
+
+
+
+		</figure>
+
 		
 
 		<form>
 			
-			<legend>Formulaire création event :</legend>
+			<legend>Formulaire d'inscription à l'event :</legend>
 
 			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"><input type="name" name="name" placeholder="Nom"><br>
 			<input type="email" name="email" placeholder="email"><br>
-			<input type="lieu" name="lieu" placeholder="Adresse"><br>
-			<input type="lieu" name="lieu" placeholder="Complément adresse"><br>
-			<label>Jour de l'événement :</label> <input type="date" name="mois"> <label>Heure de début</label> <input type="time" name="debut"> <label>Heure de fin</label> <input type="time" name=""><br>
-			<label>Nb max de personnes : </label> <input type="number" name="nombre"><br>
+			<br>
 
-			<select>
-				<option>Catégorie :</option>
-				<optgroup label="Jeux plateau">
-				<option>Monopoly</option>
-				<option>Dungeons And draagons</option>
-				</optgroup>
+			<script type="text/javascript">
+				function afficher() {
+	    		alert("Votre inscription a bien était prise en compte *Alea Jacta Est*");
+	}
+			</script>
 
-				<optgroup label="lan">
-					<option>Fortnite</option>
-					<option>Pubg</option>
-				</optgroup>
-			</select><br>
-
-
-			<textarea placeholder="Description de l'event" class="form-control"></textarea><br>
+			<button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">S'inscrire</button>
 
 
 		</form>
-
-
-		<button class="btn btn-primary">Créer</button>
 
 	</div>
 
@@ -70,6 +75,12 @@
 		</footer>
 
 	</div>
+
+
+
+
+	<!-- <label>Jour de l'événement :</label> <input type="date" name="mois"> <label>Heure de début</label> <input type="time" name="debut"> <label>Heure de fin</label> <input type="time" name=""><br>
+			<label>Nb max de personnes : </label> <input type="number" name="nombre">-->
 
 </body>
 </html>

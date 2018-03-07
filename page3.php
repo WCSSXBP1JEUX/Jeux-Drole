@@ -37,18 +37,16 @@
 					<option value="option1">Zetes tro nuleuh</option>
 					<option value="option2">Vous êtes les meilleurs</option>
 			</select><br>
-			<textarea id="textarea" class="form-control" rows="5" placeholder="Message"></textarea><br>
+			<textarea id="textarea" class="form-control" rows="5" placeholder="Message" ></textarea><br>
 
 
 			<script type="text/javascript">
 function afficher() {
-    alert("Message bien pris en compte");
+    alert("Votre message a bien était pris en compte.");
 }
 </script>
 
 <button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">Envoyer</button>
-
-
 
 		</form>
 
