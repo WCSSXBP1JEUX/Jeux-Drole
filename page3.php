@@ -34,7 +34,17 @@
 					<option value="option2">Vous êtes les meilleurs</option>
 			</select><br>
 			<textarea id="textarea" class="form-control" rows="5" placeholder="Message"></textarea><br>
-			<a href="page5.php" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-plus"></span> Envoyer</a>
+
+
+			<script type="text/javascript">
+function afficher() {
+    alert("Message bien pris en compte");
+}
+</script>
+
+<button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">Envoyer</button>
+
+
 
 		</form>
 

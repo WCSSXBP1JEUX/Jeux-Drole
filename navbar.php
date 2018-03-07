@@ -1,11 +1,11 @@
 
 <div class="col-md-12">
 
-<div class="navbar navbar-default">
+<div class="navbar navbar-inverse">
 
 	<a class="navbar-brand"> Jeux Drôle</a>
 
-	<!--
+<!--
 	<ul class="nav navbar-nav">
 	    <li<?php if($_GET['page']=="page1.php")   { echo " class=\"active\""; } ?>><a href="?page=page1.php">Home</a></li>
 	    <li<?php if($_GET['page']=="page2.php")   { echo " class=\"active\""; } ?>><a href="?page=page2.php">Créer un événement</a></li>
