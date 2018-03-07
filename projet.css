@@ -7,3 +7,20 @@ li:hover {
 	font-weight: bold;
 }
 
+@media screen and (min-width: 1px) and (max-width: 700px) {
+
+	.navbar-brand { 
+	font-size: 40px;
+	margin-top: 9px;
+	margin-right: 0px;
+}
+
+	.dropdown-menu li {
+		background-color:#2F1E0E;
+	}
+
+	.dropdown-menu li a {
+		color: #FFFFF0;
+	}
+
+}
