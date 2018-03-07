@@ -1,5 +1,14 @@
-footer {
+.footer {
 	margin-top: 20px;
+	background-color: rgba(255,255,212,1);
+}
+p.textfooter {
+	text-align: center;
+	font-size: 14px;
+	color : rgba(96,41,46,1);
+}
+a {
+	color : inherit;
 }
 
 li:hover {
