@@ -25,7 +25,7 @@
 	    <li><a href="page4.php">Event à venir</a></li>
 	    <li><a href="page3.php">Contact</a></li>
   	</ul>
-</div> 
+</div>
 </div>
 
 	<div class="hidden-xs">
@@ -46,23 +46,3 @@
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
