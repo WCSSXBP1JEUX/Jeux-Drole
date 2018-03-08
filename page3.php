@@ -20,12 +20,12 @@
 
 	<div class="container">
 
-		<h1 class="col-lg-offset-4 col-6">Contact</h1>
+		<h1 class="col-lg-offset-5 col-6">Contact</h1>
 
 
 
 
-		<form class="well">
+		<form class="col-md-offset-2 well">
 			
 			<legend>Formulaire de contact </legend>
 
