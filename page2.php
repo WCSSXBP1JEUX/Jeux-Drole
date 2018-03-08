@@ -6,6 +6,8 @@
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="projet.css">
+	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -23,7 +25,7 @@
 
 	<div class="container">
 
-		<h1 class="col-lg-offset-4 col-6">Inscription à l'événement</h1>
+		<h1 class="col-lg-offset-3 col-6">Inscription à l'événement</h1>
 
 
 		<figure>
