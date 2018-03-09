@@ -27,7 +27,7 @@
 
 
 
-		<form class="col-md-offset-2 well">
+		<form class="col-md-offset-2 well" method="GET">
 			
 			<legend>Formulaire de contact </legend>
 
@@ -44,7 +44,7 @@
 
 			<script type="text/javascript">
 function afficher() {
-    alert("Votre message a bien était pris en compte <?php echo $_GET['user_name'] ?>.");
+    alert("Votre message a bien était pris en compte.");
 }
 </script>
 

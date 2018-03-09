@@ -28,8 +28,8 @@
 		<h1 class="col-lg-offset-3 col-6">Inscription à l'événement</h1>
 
 
-		<figure>
-			<img class="col-md-offset-2" src="Images/resized1.jpg">
+		<img class="col-md-offset-2" src="Images/resized1.jpg">
+
 			<figcaption class="col-md-offset-2 well">
 				<p>Id: #12345</p>
 				<p>Nom de l'event : Soirée Catane</p>
@@ -48,13 +48,13 @@
 
 		
 
-		<form class="col-lg-6">
+		<form class=" col-md-offset-2 col-lg-5">
 			
 			<legend>Formulaire d'inscription à l'event :</legend>
 
 			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"> <input type="name" name="name" placeholder="Nom"><br>
 			<input type="email" name="email" placeholder="email" class="form-control">
-			<input type="tel" name="number" placeholder="numéro de tel">
+			<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel">
 			<br>
 
 			<script type="text/javascript">

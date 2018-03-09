@@ -3,10 +3,10 @@
 
 <div class="navbar navbar-default">
 
+	<a class="navbar-brand"> Jeux Drôle</a>
 
 	<div class="hidden-xs">
 	<ul class="nav navbar-nav">
-		<li class="navbar-brand"> Jeux Drôle</li>
 	    <li<?php if($_GET['page']=="page1.php")   { echo " class=\"active\""; } ?>><a href="page1.php?page=page1.php">Home</a></li>
 	    <li<?php if($_GET['page']=="page2.php")   { echo " class=\"active\""; } ?>><a href="page2.php?page=page2.php">Créer un événement</a></li>
 	    <li<?php if($_GET['page']=="page4.php")   { echo " class=\"active\""; } ?>><a href="page4.php?page=page4.php">Event à venir</a></li>
