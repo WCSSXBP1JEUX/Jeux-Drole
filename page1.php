@@ -21,7 +21,9 @@
 
 	</div>
 	<div class="container">
-		<div class="container beige col-lg-offset-2 col-lg-8" >
+		<div class="container hidden-xs col-sm-1 col-lg-2 fgauche">
+		</div>
+		<div class="container beige col-md-10 col-lg-8" >
 
 			<!-- <h1 class="col-lg-offset-4">Jeux Drôle </h1>  -->
 			<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-1"></a>

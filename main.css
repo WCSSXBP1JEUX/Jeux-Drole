@@ -61,15 +61,6 @@ li
 
 }
 
-
-.footer
-{
-
-
-
-  ;
-}
-
 .marron
 {
   background-color: #6c2b29;
@@ -142,4 +133,12 @@ p.textfooter
   background-color: #6c2b29;
   color: #fefed3; /* couleur du texte */
   font-family: 'Nanum Gothic', sans-serif;
+}
+
+.fgauche
+{
+  background-color: #6c2b29;
+  background-origin: padding-box;
+  padding: 8.33333333% !important;
+  display : block;
 }
