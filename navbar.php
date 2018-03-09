@@ -1,5 +1,4 @@
 
-<div class="col-md-12">
 
 <div class="navbar navbar-default">
 
@@ -18,6 +17,7 @@
 	<div class="dropdown">
 	  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
 	  <span class="glyphicon glyphicon-menu-hamburger"></span></button>
+
 
 	<ul class="dropdown-menu pull-right">
 	    <li><a href="page1.php">Home</a></li>
