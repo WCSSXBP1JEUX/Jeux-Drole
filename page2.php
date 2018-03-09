@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width = device-width, initial-scale=1">
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="projet.css">
+	<link rel="stylesheet" type="text/css" href="main.css">
 	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -23,7 +23,7 @@
 		</header>
 	</div>
 
-	<div class="container">
+	<div class="container beige">
 
 		<h1 class="col-lg-offset-3 col-6">Inscription à l'événement</h1>
 
@@ -48,7 +48,7 @@
 
 		
 
-		<form class=" col-md-offset-2 col-lg-5">
+		<form class=" col-md-offset-2 col-lg-5 well">
 			
 			<legend>Formulaire d'inscription à l'event :</legend>
 
@@ -63,7 +63,7 @@
 	}
 			</script>
 
-			<button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">S'inscrire</button>
+			<button type="submit" name="envoyer" value="envoyer" class="btn btn-light change" onclick="afficher()">S'inscrire</button>
 
 
 		</form>

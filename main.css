@@ -16,12 +16,6 @@ police à intégrer dans le html
   padding-top: 30px;
 }
 
-.beige p
-{
-  padding: 30px;
-}
-
-
 /* texte général */
 h1
 {
@@ -61,14 +55,8 @@ li
 
 }
 
+.input-group {margin-left: 20px;}
 
-.footer
-{
-
-
-
-  ;
-}
 
 .marron
 {
@@ -80,13 +68,15 @@ li
   margin-top: 0px;
   width: 100%;
   padding: 10px;
-
-
 }
+
+
 span
 {
   color: #fefed3;
 }
+
+
 p.textfooter
 {
 	text-align: center;
@@ -106,6 +96,55 @@ p.textfooter
   color:white;
 }
 
+.change {
+  background-color: #6c2b29;
+  color:#fefed3;
+}
+
+.change:hover {
+  background-color: #6c2b29;
+  color:#fefed3;
+}
+
+
+/* Ajustement taille classe Well */
+
+.well {width: 672px;}
+
+figure { margin-bottom: 80px; }
+
+input, select {margin-bottom: 10px;}
+
+
+
+/* Ajustement des éléments en XS */
+
+@media screen and (min-width: 1px) and (max-width: 700px)
+{
+
+  /* Resize des elements */
+
+
+  img { width: 300px; }
+
+  .well {width: 300px;}
+
+	.navbar-brand {
+	font-size: 40px;
+	margin-top: 9px;
+	margin-right: 0px;
+}
+
+
+/* couleur bouton */
+
+.btn-light {background: #fefed3;}
+
+.glyphicon-menu-hamburger
+{
+  color: #6c2b29;
+}
+
 .dropdown-menu li
 {
   background-color:#6c2b29;
@@ -116,30 +155,12 @@ p.textfooter
   color: #fefed3;
 }
 
-.btn-primary
-{
-  background-color: #fefed3;
-}
-
-.glyphicon-menu-hamburger
-{
-  color: #6c2b29;
-}
-
-@media screen and (min-width: 1px) and (max-width: 700px)
-{
-
-	.navbar-brand {
-	font-size: 40px;
-	margin-top: 9px;
-	margin-right: 0px;
-}
-
-
-/* couleur bouton */
-.button
-{
+.change {
   background-color: #6c2b29;
-  color: #fefed3; /* couleur du texte */
-  font-family: 'Nanum Gothic', sans-serif;
+  color:#fefed3;
+}
+
+.change:hover {
+  background-color: #6c2b29;
+  color:#fefed3;
 }
