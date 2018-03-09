@@ -1,0 +1,145 @@
+/*
+police à intégrer dans le html
+<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Special+Elite" rel="stylesheet">
+ */
+
+ html, body {
+ margin:0; padding:0; width:100%; height:100%;
+ }
+
+/* couleur du background du body */
+
+.beige
+{
+  background-color: #fefed5;
+  margin-top: -20px;
+  padding-top: 30px;
+}
+
+.beige p
+{
+  padding: 30px;
+}
+
+
+/* texte général */
+h1
+{
+  font-family: 'Special Elite', cursive;
+  color: #ce631b;
+}
+
+p
+{
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #37080e;
+  text-align: justify;
+  font-size: 16px;
+}
+
+a
+{
+  text-decoration: none;
+  color: #fefed3;
+  font-size: 16px;
+}
+
+a:hover{
+  color: white;
+}
+
+li
+{
+  list-style: none;
+}
+
+/* header & footer */
+.navbar
+{
+  background-color: #6c2b29;
+  color: #fefed3;
+
+}
+
+
+.footer
+{
+
+
+
+  ;
+}
+
+.marron
+{
+  background-color: #6c2b29;
+  background-color: #6c2b29;
+  color: #fefed3;
+  font-family: 'Nanum Gothic', sans-serif;
+  border: solid white 1px;
+  margin-top: 420px;
+  width: 100%;
+  padding: 10px;
+
+
+}
+span
+{
+  color: #fefed3;
+}
+p.textfooter
+{
+	text-align: center;
+	font-size: 14px;
+	color: #fefed3;
+  font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+.navbar-default .navbar-nav > li > a
+{
+  color: #fefed3;
+}
+
+.navbar-default .navbar-nav > li > a:hover
+{
+  color:white;
+}
+
+.dropdown-menu li
+{
+  background-color:#6c2b29;
+}
+
+.dropdown-menu li a
+{
+  color: #fefed3;
+}
+
+.btn-primary
+{
+  background-color: #fefed3;
+}
+
+.glyphicon-menu-hamburger
+{
+  color: #6c2b29;
+}
+
+@media screen and (min-width: 1px) and (max-width: 700px)
+{
+
+	.navbar-brand {
+	font-size: 40px;
+	margin-top: 9px;
+	margin-right: 0px;
+}
+
+
+/* couleur bouton */
+.button
+{
+  background-color: #6c2b29;
+  color: #fefed3; /* couleur du texte */
+  font-family: 'Nanum Gothic', sans-serif;
+}
