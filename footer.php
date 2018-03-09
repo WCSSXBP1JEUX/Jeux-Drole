@@ -1,4 +1,4 @@
-<div class="jumbotron footer">
+<div class="footer">
 	<div class="container marron">
 		<p class="col-lg-4 col-sm-6 col-xs-12 textfooter"><a href="page3.php">Contact us</a><br>
 			14 rue de l'oie<br>

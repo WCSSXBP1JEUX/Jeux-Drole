@@ -10,6 +10,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+	<div class="container-fluid"
+
+	</div>
 
 	<div class="container-fluid">
 
@@ -21,13 +24,16 @@
 
 	</div>
 
-	<div class="container">
+	<div class="container beige col-lg-offset-2 col-lg-8" >
 
-		<h1 class="col-lg-offset-4">Jeux Drôle </h1>
+		<!-- <h1 class="col-lg-offset-4">Jeux Drôle </h1>  -->
+		<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-1"></a>
 
-		<p>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br>
+		<br/>
 
-		Jeux Drôle réunis un communauté de joueurs actifs organisant et participant régulièrement à des événements en tout genre (thématiques sur un jeu, découverte de plusieurs jeux, jeux de rôle one-shot/campagne, soirée Murder).<br>
+		<p>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br> <br />
+
+		Jeux Drôle réunis un communauté de joueurs actifs organisant et participant régulièrement à des événements en tout genre (thématiques sur un jeu, découverte de plusieurs jeux, jeux de rôle one-shot/campagne, soirée Murder).<br> <br>
 
 		Vous pouvez dès maintenant consulter les événements à venir et entrer en contact avec les organisateurs pour vous inscrire ou leur demander des informations complémentaires. De nouveau événements sont organisée régulièrement donc n’hésitez pas à passer de temps en temps par ici afin de rester informé des actualités proches de chez vous.<br>
 		</p>
