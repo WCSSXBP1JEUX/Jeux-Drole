@@ -4,8 +4,9 @@
 	<meta charset="utf-8">
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="main.css">
-	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Special+Elite" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="projet.css">
+	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -25,8 +26,12 @@
 		</div>
 		<div class="container beige col-md-10 col-lg-8" >
 
-			<!-- <h1 class="col-lg-offset-4">Jeux Drôle </h1>  -->
-			<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-1"></a>
+
+	<div class="container beige col-lg-offset-2 col-lg-8" >
+
+		<!-- <h1 class="col-lg-offset-4">Jeux Drôle </h1>  -->
+		<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-2"></a>
+
 
 			<br/>
 
