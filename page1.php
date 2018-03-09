@@ -28,7 +28,7 @@
 	<div class="container beige col-lg-offset-2 col-lg-8" >
 
 		<!-- <h1 class="col-lg-offset-4">Jeux Drôle </h1>  -->
-		<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-1"></a>
+		<img src="Images/Titrerecolore.png" alt="Title" class="col-lg-offset-2"></a>
 
 		<br/>
 
