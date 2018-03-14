@@ -22,7 +22,7 @@
 	</div>
 
 	<div class="container-fluid bg">
-		<div class="container beige">
+		<div class="container beige col-lg-offset-2 col-lg-8">
 
 			<h1 class="col-lg-offset-5 col-6">Contact</h1>
 
