@@ -5,7 +5,8 @@
 	<meta name="viewport" content="width = device-width, initial-scale=1">
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="projet.css">
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Special+Elite" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -13,9 +14,9 @@
 
 
 	<div class="container-fluid">
-		
+
 		<header class="row">
-	
+
 	<?php include("navbar.php");   ?>
 
 		</header>
@@ -43,10 +44,10 @@
 
 		</figure>
 
-		
+
 
 		<form>
-			
+
 			<legend>Formulaire d'inscription à l'event :</legend>
 
 			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"><input type="name" name="name" placeholder="Nom"><br>
@@ -67,9 +68,9 @@
 	</div>
 
 	<div class="container-fluid">
-		
+
 		<footer>
-			
+
 	<?php include("footer.php"); ?>
 
 		</footer>
