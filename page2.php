@@ -9,7 +9,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -17,9 +17,7 @@
 	<div class="container-fluid">
 
 		<header class="row">
-
-	<?php include("navbar.php");   ?>
-
+			<?php include("navbar.php");   ?>
 		</header>
 	</div>
 
@@ -48,8 +46,8 @@
 
 
 
-		<form class=" col-md-offset-2 col-lg-5">
 
+		<form class=" col-md-offset-2 col-lg-5">
 			<legend>Formulaire d'inscription à l'event :</legend>
 
 			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"> <input type="name" name="name" placeholder="Nom"><br>
