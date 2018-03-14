@@ -40,7 +40,7 @@
 		<p>Nom de l’organisateur : Pedro Vasquez</p>
 		<p>Participant max : 6</p>
 		<p>Description de l’event : Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins....</p>
-		<a href="page2.php" class="btn btn-light btn-xs form-control change">info</a>
+		<a href="page2.php" class="btn btn-light form-control change">Info</a>
 		</figcaption>
 
 		</figure>
@@ -57,7 +57,7 @@
 		<p>Nom de l’organisateur : Emilie Martin</p>
 		<p>Participant max : 5</p>
 		<p>Description de l’event : La fin du monde nous a frappé de plein fouet, les solaires et les lunaires se livrent une bataille sans merci à la surface de notre planète...</p>
-		<a href="#" class="btn btn-light btn-xs form-control change">info</a>
+		<a href="#" class="btn btn-light form-control change">Info</a>
 		</figcaption>
 
 		</figure>
@@ -75,7 +75,8 @@
 		<p>Nom de l’organisateur : Agatha Poirot</p>
 		<p>Participant max : 12</p> 
 		<p>Description de l’event : 1922, la célèbre actrice Maya Toitovna organise une soirée mysticisme dans sa résidence de campagne. Malgré des invitations soigneusement fournies en main propre elle a reçu des menaces de mort...</p>
-		<a href="#" class="btn btn-light btn-xs form-control change">info</a>
+		<a href="#" class="btn btn-light form-control change">i
+		Info</a>
 		</figcaption>
 
 		</figure>
