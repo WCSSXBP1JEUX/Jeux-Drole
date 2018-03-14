@@ -6,7 +6,8 @@
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="main.css">
-	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Special+Elite" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -22,23 +23,24 @@
 		</header>
 	</div>
 
-	<div class="container">
+	<div class="container beige">
 
-		<h1 class="col-lg-offset-4 col-6">Inscription à l'événement</h1>
+		<h1 class="col-lg-offset-3 col-6">Inscription à l'événement</h1>
 
 
-		<figure>
-			<img class="col-md-offset-2" src="Images/resized1.jpg">
-			<figcaption class=" well">
-				<p>Id: #Jeu_Plateau</p>
-				<p>Nom de l'event : Soirée jeu</p>
-				<p>Date : Le 15/03/18</p>
-				<p>Lieu : Chez moi</p>
+		<img class="col-md-offset-2" src="Images/resized1.jpg">
+
+			<figcaption class="col-md-offset-2 well">
+				<p>Id: #12345</p>
+				<p>Nom de l'event : Soirée Catane</p>
+				<p>Date et heure : Samedi 15 Mars 19h30</p>
+				<p>Lieu : 34 rue des colons - 67404 KAHFSHEIM</p>
+				<p>Nom de l'organisateur : Pedro Vasquez</p>
 				<p>Mail de l'organisateur : monmail@gmail.com</p>
-				<p>Descriptif de l'event: Une soirée avec des jeux qu'est-ce que tu veux savoir de plus sérieux ?!</p>
+				<p>Max de participant : 6</p>
+				<p>Descriptif de l'event: Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins. Pour ceux qui le souhaiterons on pourra commander des pizzas. Chez moi on ne fume pas mais on pourra faire des pauses pour que les fumeurs puissent sortir s’en griller une ^^.
+				N’hésitez pas me contacter pour vous inscrire ou avoir plus d’informations.</p>
 			</figcaption>
-
-
 
 
 
@@ -46,12 +48,13 @@
 
 
 
-		<form>
+		<form class=" col-md-offset-2 col-lg-5 well">
 
 			<legend>Formulaire d'inscription à l'event :</legend>
 
-			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"><input type="name" name="name" placeholder="Nom"><br>
-			<input type="email" name="email" placeholder="email"><br>
+			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"> <input type="name" name="name" placeholder="Nom"><br>
+			<input type="email" name="email" placeholder="email" class="form-control">
+			<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel">
 			<br>
 
 			<script type="text/javascript">
@@ -60,7 +63,7 @@
 	}
 			</script>
 
-			<button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">S'inscrire</button>
+			<button type="submit" name="envoyer" value="envoyer" class="btn btn-light change" onclick="afficher()">S'inscrire</button>
 
 
 		</form>

@@ -27,6 +27,7 @@ h1
 {
   font-family: 'Special Elite', cursive;
   color: #ce631b;
+  text-align: center;
 }
 
 p
@@ -69,8 +70,9 @@ span
 {
   background-color: #6c2b29;
   color: #fefed3;
-
 }
+
+.input-group {margin-left: 20px;}
 
 .marron
 {
@@ -171,8 +173,27 @@ p.textfooter
   background-image: none;
 }
 
+/* Ajustement taille classe Well, mise en page formulaire et page event à venir */
+
+.well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
+
+figure { margin-bottom: 80px; }
+
+input, select {margin-bottom: 10px;}
+
+
+
+/* Ajustement des éléments en XS */
+
 @media screen and (min-width: 1px) and (max-width: 700px)
 {
+
+  /* Resize des elements */
+
+
+  img { width: 300px; }
+
+  .well {width: 300px;}
 
 	.navbar-brand {
 	font-size: 40px;
@@ -180,10 +201,22 @@ p.textfooter
 	margin-right: 0px;
 }
 
+
 /* couleur bouton */
-.button
+
+.btn-light {background: #fefed3;}
+
+.glyphicon-menu-hamburger
 {
+  color: #6c2b29;
+}
+
+.change {
   background-color: #6c2b29;
-  color: #fefed3; /* couleur du texte */
-  font-family: 'Nanum Gothic', sans-serif;
+  color:#fefed3;
+}
+
+.change:hover {
+  background-color: #6c2b29;
+  color:#fefed3;
 }

@@ -1,3 +1,7 @@
+h1 {font-family: 'Special Elite', cursive;}
+
+p {font-family: 'Nanum Gothic', sans-serif; font-weight: bold;}
+
 .footer {
 	margin-top: 20px;
 	background-color: rgba(255,255,212,1);
@@ -7,11 +11,22 @@ p.textfooter {
 	font-size: 14px;
 	color : rgba(96,41,46,1);
 }
-a {
-	color : inherit;
-}
+
+figure { margin-bottom: 80px; }
+
+input, select {margin-bottom: 10px;}
+
+.well {width: 672px;}
+
+
 
 @media screen and (min-width: 1px) and (max-width: 700px) {
+
+
+	img { width: 300px; }
+
+
+	.well {width: 300px;}
 
 	.navbar-brand { 
 	font-size: 40px;
