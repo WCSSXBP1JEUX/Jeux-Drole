@@ -68,11 +68,17 @@
 			<div class="hidden-xs">
 				<img src="Images/Titrerecolore.png" alt="Title" class="img-responsive center-block"/>
 			</div>
-			<p>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br> <br />
+			<p>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br><br>
 
-			Jeux Drôle réunis un communauté de joueurs actifs organisant et participant régulièrement à des événements en tout genre (thématiques sur un jeu, découverte de plusieurs jeux, jeux de rôle one-shot/campagne, soirée Murder).<br> <br>
+			Jeux Drôle réunis un communauté de joueurs actifs organisant et participant régulièrement à des événements en tout genre (thématiques sur un jeu, découverte de plusieurs jeux, jeux de rôle one-shot/campagne, soirée Murder). Avec 42 membres actifs nous disposons d'une base de joueurs en tout genre ravi de se déplacer pour passer un bon moment.<br><br>
 
-			Vous pouvez dès maintenant consulter les événements à venir et entrer en contact avec les organisateurs pour vous inscrire ou leur demander des informations complémentaires. De nouveau événements sont organisée régulièrement donc n’hésitez pas à passer de temps en temps par ici afin de rester informé des actualités proches de chez vous.<br>
+			Vous pouvez dès maintenant consulter les événements à venir et entrer en contact avec les organisateurs pour vous inscrire ou leur demander des informations complémentaires. De nouveau événements sont organisée régulièrement donc n’hésitez pas à passer de temps en temps par ici afin de rester informé des actualités proches de chez vous.<br><br>
+
+			Il n'est pas nécessaire d'être membre de l'association pour pouvoir s'inscrire à la majorité des évènements ou même pour demander à en organiser un. Par contre certains évènements organisés par l'association  nécessitent de faire partie de celle-ci pour des questions d'assurances.<br><br>
+
+			L'organisateur d'un évènement est entièrement maître de ce dernier. En conséquence c'est lui qui se charge de confirmer les inscriptions à l'évènement et de répondre au questions posées. Pour toute réclamation concerant un évènement passé (objet oublié, etc...) veuillez prendre contact avec l'organisateur directement. <br><br>
+
+
 			</p>
 
 
