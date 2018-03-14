@@ -27,7 +27,7 @@
 		<div class="container beige col-lg-offset-2 col-lg-8">
 
 
-			<h1 class="col-lg-offset-4 col-6">Event à venir</h1>
+			<h1 class="col-sm-offset-4 col-lg-offset-4 espacement">Event à venir</h1>
 
 
 
@@ -68,7 +68,7 @@
 
 			<figure class="row">
 
-			<img class="col-md-4" src="Images/o.jpg">
+			<img class="col-sm-6 col-md-4" src="Images/sherlock-holmes-resize.png">
 
 			<figcaption class="col-md-7">
 			<p>Nom de l’event : Soirée Murder</p>
@@ -77,8 +77,7 @@
 			<p>Nom de l’organisateur : Agatha Poirot</p>
 			<p>Participant max : 12</p>
 			<p>Description de l’event : 1922, la célèbre actrice Maya Toitovna organise une soirée mysticisme dans sa résidence de campagne. Malgré des invitations soigneusement fournies en main propre elle a reçu des menaces de mort...</p>
-			<a href="#" class="btn btn-light form-control change">i
-			Info</a>
+			<a href="#" class="btn btn-light form-control change">Info</a>
 			</figcaption>
 
 			</figure>
