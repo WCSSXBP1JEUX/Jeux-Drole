@@ -31,7 +31,7 @@
 
 		<figure class="row">
 
-		<img class="col-md-4" src="Images/picture_game.jpg">
+		<img class="col-md-4" src="Images/game-340574_1920.jpg">
 
 		<figcaption class="col-md-7">
 		<p>Nom de l’event : Soirée Catane</p>
@@ -48,7 +48,7 @@
 
 		<figure class="row">
 
-		<img class="col-md-4 col-md-push-7" src="Images/picture_game.jpg">
+		<img class="col-md-4 col-md-push-7" src="Images/role-playing-game-2536016__340.jpg">
 
 		<figcaption class="col-md-7 col-md-pull-4">
 		<p>Nom de l’event : Découverte JDR plenilunio</p>
@@ -66,7 +66,7 @@
 
 		<figure class="row">
 
-		<img class="col-md-4" src="Images/picture_game.jpg">
+		<img class="col-md-4" src="Images/o.jpg">
 
 		<figcaption class="col-md-7">
 		<p>Nom de l’event : Soirée Murder</p>
