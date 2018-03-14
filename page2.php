@@ -5,9 +5,9 @@
 	<meta name="viewport" content="width = device-width, initial-scale=1">
 	<title>Projet 1</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="projet.css">
-	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet"> 
-	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet"> 
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -15,9 +15,9 @@
 
 
 	<div class="container-fluid">
-		
+
 		<header class="row">
-	
+
 	<?php include("navbar.php");   ?>
 
 		</header>
@@ -46,10 +46,10 @@
 
 		</figure>
 
-		
+
 
 		<form class=" col-md-offset-2 col-lg-5">
-			
+
 			<legend>Formulaire d'inscription à l'event :</legend>
 
 			<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"> <input type="name" name="name" placeholder="Nom"><br>
@@ -63,7 +63,7 @@
 	}
 			</script>
 
-			<button type="submit" name="envoyer" value="envoyer" class="btn btn-primary" onclick="afficher()">S'inscrire</button>
+			<button type="submit" name="envoyer" value="envoyer" class="button" onclick="afficher()">S'inscrire</button>
 
 
 		</form>
@@ -71,9 +71,9 @@
 	</div>
 
 	<div class="container-fluid">
-		
+
 		<footer>
-			
+
 	<?php include("footer.php"); ?>
 
 		</footer>
