@@ -24,13 +24,28 @@ police à intégrer dans le html
   padding-top: 30px;
 }
 
+.beige p
+{
+  padding: 30px;
+}
+
+
 /* texte général */
 h1
 {
   font-family: 'Special Elite', cursive;
   color: #ce631b;
+  text-align: center;
 }
 
+h2
+{
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #ce631b;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
 p
 {
   font-family: 'Nanum Gothic', sans-serif;
@@ -59,6 +74,16 @@ span
 {
   color: #fefed3;
 }
+
+.faq
+{
+  color: #6c2b29;
+  font-weight: bold;
+}
+.faq:hover
+{
+  color: #ce631b;
+}
 /* titre*/
 .img-responsive{
   margin: 0 auto;
@@ -70,8 +95,8 @@ span
 {
   background-color: #6c2b29;
   color: #fefed3;
-
 }
+
 .input-group {margin-left: 20px;}
 
 .marron
@@ -114,23 +139,10 @@ p.textfooter
   color:#fefed3;
 }
 
-.change:hover {
-  background-color: #6c2b29;
-  color:#fefed3;
+.glyphicon-menu-hamburger
+{
+  color: #6c2b29;
 }
-
-
-/* Ajustement taille classe Well, mise en page formulaire et page event à venir */
-
-.well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
-
-figure { margin-bottom: 80px; }
-
-input, select {margin-bottom: 10px;}
-
-
-
-/* Ajustement des éléments en XS */
 
 /* carousel*/
 /* Makes images fully responsive */
@@ -179,6 +191,18 @@ input, select {margin-bottom: 10px;}
 .carousel-control.right {
   background-image: none;
 }
+
+/* Ajustement taille classe Well, mise en page formulaire et page event à venir */
+
+.well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
+
+figure { margin-bottom: 80px; }
+
+input, select {margin-bottom: 10px;}
+
+
+
+/* Ajustement des éléments en XS */
 
 @media screen and (min-width: 1px) and (max-width: 700px)
 {
