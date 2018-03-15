@@ -24,7 +24,7 @@
 	<div class="container-fluid bg">
 		<div class="container beige col-lg-offset-2 col-lg-8">
 
-			<h1 class="col-lg-offset-3 col-6">Inscription à l'événement</h1>
+			<h1>Inscription à l'événement</h1>
 
 
 			<img class="col-md-offset-2" src="Images/Colon_catane_resized.jpg">
