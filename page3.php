@@ -31,7 +31,7 @@
 
 
 
-			<form class="col-md-offset-2 well contact-bottom center-block" method="GET">
+			<form class="well contact-bottom center-block" method="GET">
 
 				<legend>Formulaire de contact </legend>
 

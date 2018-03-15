@@ -27,9 +27,9 @@
 			<h1>Inscription à l'événement</h1>
 
 
-			<img class="col-md-offset-2 kev" src="Images/Colon_catane_resized.jpg">
+			<img class="kev center-block" src="Images/Colon_catane_resized.jpg">
 
-			<figcaption class="col-md-offset-2 well">
+			<figcaption class="well center-block">
 				<p>Id: #12345 <br>
 				Nom de l'event : Soirée Catane <br>
 				Date et heure : Samedi 15 Mars 19h30 <br>
@@ -41,21 +41,18 @@
 				N’hésitez pas me contacter pour vous inscrire ou avoir plus d’informations.</p>
 			</figcaption>
 
-			<form class=" col-md-offset-2 col-lg-5 well">
+			<form class="well center-block">
 
 				<legend>Formulaire d'inscription à l'event :</legend>
 
 				<input type="name" name="Prénom" placeholder="Prénom"> <input type="name" name="name" placeholder="Nom"><br>
-				<input type="email" name="email" placeholder="email"  class="form-control"> <br>
-				<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel">
-				<br>
-
+				<input type="email" name="email" placeholder="email" class="mail"><br>
+				<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel"> <br>
 				<script type="text/javascript">
 					function afficher() {
 		    		alert("Votre inscription a bien été prise en compte *Alea Jacta Est*");
 					}
 				</script>
-
 				<button type="submit" name="envoyer" value="envoyer" class="btn btn-light change" onclick="afficher()">S'inscrire</button>
 
 
