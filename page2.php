@@ -27,7 +27,7 @@
 			<h1>Inscription à l'événement</h1>
 
 
-			<img class="col-md-offset-2" src="Images/Colon_catane_resized.jpg">
+			<img class="col-md-offset-2 kev" src="Images/Colon_catane_resized.jpg">
 
 			<figcaption class="col-md-offset-2 well">
 				<p>Id: #12345 <br>
@@ -45,7 +45,7 @@
 
 				<legend>Formulaire d'inscription à l'event :</legend>
 
-				<input type="name" name="Prénom" placeholder="Prénom" autofocus="name"> <input type="name" name="name" placeholder="Nom"><br>
+				<input type="name" name="Prénom" placeholder="Prénom"> <input type="name" name="name" placeholder="Nom"><br>
 				<input type="email" name="email" placeholder="email" class="form-control">
 				<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel">
 				<br>

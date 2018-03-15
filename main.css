@@ -217,6 +217,10 @@ margin-bottom: 15px;
     color: #fefed3;
 background-color: #9c2b29;
 }
+
+.kev{
+    margin-bottom: 0px;
+}
 /* Ajustement des éléments en XS */
 
 @media screen and (min-width: 1px) and (max-width: 767px)
