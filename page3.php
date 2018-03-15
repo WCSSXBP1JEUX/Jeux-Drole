@@ -60,7 +60,7 @@
 		</div>
 	</div>
 
-	<div class=" row container-fluid">
+	<div class="row container-fluid">
 
 		<footer>
 
