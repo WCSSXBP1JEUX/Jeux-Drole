@@ -21,8 +21,10 @@
 		</header>
 
 	</div>
+
 	<div class="container-fluid bg">
 		<div class="container beige col-lg-offset-2 col-lg-8" >
+
 			<div id="carousel-generic" class="carousel slide" data-ride="carousel">
 				  <!-- Indicators -->
 				  <ol class="carousel-indicators">

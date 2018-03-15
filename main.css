@@ -144,6 +144,23 @@ p.textfooter
   color: #6c2b29;
 }
 
+
+/* Ajustement taille classe Well, mise en page formulaire et page event à venir */
+
+.well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
+
+figure { margin-bottom: 80px; }
+
+.espacement { margin-bottom: 70px; }
+
+input, select {margin-bottom: 10px;}
+
+
+
+
+
+/* Ajustement des éléments en XS */
+
 /* carousel*/
 /* Makes images fully responsive */
 
