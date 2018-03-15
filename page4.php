@@ -27,7 +27,7 @@
 		<div class="container beige col-lg-offset-2 col-lg-8">
 
 
-			<h1 class="col-lg-offset-4 col-6">Event à venir</h1>
+			<h1>Event à venir</h1>
 
 
 
