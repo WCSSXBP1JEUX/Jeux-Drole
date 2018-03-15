@@ -12,9 +12,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container-fluid">
+	<div class=" row container-fluid">
 
-		<header class="row">
+		<header>
 
 	<?php include("navbar.php");   ?>
 

@@ -14,7 +14,7 @@
 
 	<div class="row container-fluid">
 
-		<header class="">
+		<header>
 
 	<?php include("navbar.php");   ?>
 

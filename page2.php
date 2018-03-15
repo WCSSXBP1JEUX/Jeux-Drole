@@ -14,9 +14,9 @@
 <body>
 
 
-	<div class="container-fluid">
+	<div class="row container-fluid">
 
-		<header class="row">
+		<header>
 			<?php include("navbar.php");   ?>
 		</header>
 	</div>
