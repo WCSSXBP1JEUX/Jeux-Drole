@@ -46,7 +46,7 @@
 				<legend>Formulaire d'inscription à l'event :</legend>
 
 				<input type="name" name="Prénom" placeholder="Prénom"> <input type="name" name="name" placeholder="Nom"><br>
-				<input type="email" name="email" placeholder="email" class="form-control">
+				<input type="email" name="email" placeholder="email"  class="form-control"> <br>
 				<input type="tel" pattern="+33923456789" name="number" placeholder="numéro de tel">
 				<br>
 

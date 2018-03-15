@@ -31,18 +31,18 @@
 
 
 
-			<form class="col-md-offset-2 well" method="GET">
+			<form class="col-md-offset-2 well contact-bottom center-block" method="GET">
 
 				<legend>Formulaire de contact </legend>
 
 				<input type="name" name="user_name" placeholder="prénom">
 				<input type="name" name="nom" placeholder="nom"><br>
-				<input type="email" name="email" placeholder="email"><br>
+				<input type="email" name="email" placeholder="email" class= "mail"><br>
 				<select name="Motif" value="Motif">
 						<option>Motif :</option>
-						<option value="option1">J'ai repéré une erreur sur votre site</option>
-						<option value="option2">Je souhaite organiser un évènement</option>
-						<option value="option3">Je souhaite devenir membre de votre association</option>
+						<option value="option1">Feedback</option>
+						<option value="option2">Créer un évènement</option>
+						<option value="option3">Devenir membre</option>
 				</select><br>
 				<textarea id="textarea" class="form-control" rows="5" placeholder="Message" ></textarea><br>
 

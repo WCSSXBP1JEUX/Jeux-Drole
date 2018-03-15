@@ -140,12 +140,19 @@ p.textfooter
   background-color: #6c2b29;
   color:#fefed3;
 }
+.change:hover{
+    background-color:#9c2b29;
+    color : #fefed3;
+}
 
 .glyphicon-menu-hamburger
 {
   color: #6c2b29;
 }
 
+.contact-bottom{
+    margin-bottom: 120px;
+}
 
 /* Ajustement taille classe Well, mise en page formulaire et page event à venir */
 
@@ -221,6 +228,10 @@ background-color: #9c2b29;
 .kev{
     margin-bottom: 0px;
 }
+.mail{
+    width: 60%;
+}
+
 /* Ajustement des éléments en XS */
 
 @media screen and (min-width: 1px) and (max-width: 767px)
@@ -266,6 +277,8 @@ background-color: #9c2b29;
       color:#fefed3;
     }
     .navbar-form{margin-right: 0px;}
-
+    .mail{
+        width: auto;
+    }
 }
 /*!ne rien mettre en dessous*/
