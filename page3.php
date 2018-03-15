@@ -26,7 +26,7 @@
 	<div class="container-fluid bg">
 		<div class="container beige col-lg-offset-2 col-lg-8">
 
-			<h1 class="col-xs-offset-3 col-sm-offset-4 col-lg-offset-5 col-6 espacement">Contact</h1>
+			<h1>Contact</h1>
 
 
 
