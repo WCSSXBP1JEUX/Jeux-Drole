@@ -41,7 +41,7 @@
 			Lieu : 34 rue des colons - 67404 KAHFSHEIM <br>
 			Nom de l’organisateur : Pedro Vasquez <br>
 			Participant max : 6 <br><br>
-			Description de l’event : Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins....</p><br>
+			Description de l’event : Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension Marins et les extensions 5 / 6 joueurs du jeu de base et de Marins....</p><br>
 			<a href="page2.php" class="btn btn-light form-control change">Info</a><p><br></p>
 			</figcaption>
 

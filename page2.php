@@ -35,9 +35,9 @@
 				Date et heure : Samedi 15 Mars 19h30 <br>
 				Lieu : 34 rue des colons - 67404 KAHFSHEIM <br>
 				Nom de l'organisateur : Pedro Vasquez <br>
-				Mail de l'organisateur : monmail@gmail.com <br>
+				Mail de l'organisateur : pedro.vasquez@gmail.com <br>
 				Max de participant : 6 <br> <br>
-				Descriptif de l'event: Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins. Pour ceux qui le souhaiterons on pourra commander des pizzas. Chez moi on ne fume pas mais on pourra faire des pauses pour que les fumeurs puissent sortir s’en griller une ^^.
+				Descriptif de l'event: Salut! J’organise une petite soirée pour jouer à Colon de Catane avec l’extension Marins et les extensions 5 / 6 joueurs du jeu de base et de Marins. Pour ceux qui le souhaiteront on pourra commander des pizzas. Chez moi on ne fume pas mais on pourra faire des pauses pour que les fumeurs puissent sortir s’en griller une ^^.
 				N’hésitez pas me contacter pour vous inscrire ou avoir plus d’informations.</p>
 			</figcaption>
 
