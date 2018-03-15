@@ -30,14 +30,14 @@
 			<img class="col-md-offset-2" src="Images/Colon_catane_resized.jpg">
 
 			<figcaption class="col-md-offset-2 well">
-				<p>Id: #12345</p>
-				<p>Nom de l'event : Soirée Catane</p>
-				<p>Date et heure : Samedi 15 Mars 19h30</p>
-				<p>Lieu : 34 rue des colons - 67404 KAHFSHEIM</p>
-				<p>Nom de l'organisateur : Pedro Vasquez</p>
-				<p>Mail de l'organisateur : monmail@gmail.com</p>
-				<p>Max de participant : 6</p>
-				<p>Descriptif de l'event: Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins. Pour ceux qui le souhaiterons on pourra commander des pizzas. Chez moi on ne fume pas mais on pourra faire des pauses pour que les fumeurs puissent sortir s’en griller une ^^.
+				<p>Id: #12345 <br>
+				Nom de l'event : Soirée Catane <br>
+				Date et heure : Samedi 15 Mars 19h30 <br>
+				Lieu : 34 rue des colons - 67404 KAHFSHEIM <br>
+				Nom de l'organisateur : Pedro Vasquez <br>
+				Mail de l'organisateur : monmail@gmail.com <br>
+				Max de participant : 6 <br> <br>
+				Descriptif de l'event: Salut! j’organise une petite soirée pour jouer à Colon de Catane avec l’extension marins et les extensions 5 / 6 joueurs du jeu de base et de marins. Pour ceux qui le souhaiterons on pourra commander des pizzas. Chez moi on ne fume pas mais on pourra faire des pauses pour que les fumeurs puissent sortir s’en griller une ^^.
 				N’hésitez pas me contacter pour vous inscrire ou avoir plus d’informations.</p>
 			</figcaption>
 
@@ -52,7 +52,7 @@
 
 				<script type="text/javascript">
 					function afficher() {
-		    		alert("Votre inscription a bien était prise en compte *Alea Jacta Est*");
+		    		alert("Votre inscription a bien été prise en compte *Alea Jacta Est*");
 					}
 				</script>
 

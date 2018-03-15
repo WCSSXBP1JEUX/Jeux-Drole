@@ -4,7 +4,12 @@ police à intégrer dans le html
  */
 
  html, body {
-  margin:0; padding:0; width:100%; height:100%;
+  margin:0px; padding:0px; width:100%; height:100%;
+  float:left; float:right;
+}
+.row{
+    margin : 0px;
+    padding: 0px;
 }
 .bg{
   background-image: url("Images/Fond2.png");
@@ -24,10 +29,6 @@ police à intégrer dans le html
   padding-top: 30px;
 }
 
-.beige p
-{
-  padding: 30px;
-}
 
 
 /* texte général */
@@ -36,6 +37,7 @@ h1
   font-family: 'Special Elite', cursive;
   color: #ce631b;
   text-align: center;
+  margin-bottom: 70px;
 }
 
 h2
@@ -149,12 +151,8 @@ p.textfooter
 
 .well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
 
-figure { margin-bottom: 80px; }
-
-.espacement { margin-bottom: 70px; }
-
+figure { margin-bottom: 80px;}
 input, select {margin-bottom: 10px;}
-
 
 
 
@@ -208,16 +206,6 @@ input, select {margin-bottom: 10px;}
 .carousel-control.right {
   background-image: none;
 }
-
-/* Ajustement taille classe Well, mise en page formulaire et page event à venir */
-
-.well {width: 672px; background: #fefed3; border :1px solid #6c2b29; border-radius: 0px 0px 10px 10px;}
-
-figure { margin-bottom: 80px; }
-
-input, select {margin-bottom: 10px;}
-
-
 
 /* Ajustement des éléments en XS */
 

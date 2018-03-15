@@ -10,8 +10,11 @@
 		</p>
 		<p class="col-lg-4 col-sm-6 col-xs-12 textfooter"><a href="#">Mentions légales</a>
 		</p>
-		<p class="col-lg-4 col-lg-offset-0 col-sm-6 col-sm-offset-6 col-xs-12 textfooter"><a href="#">FAQ</a>
+		<p class="col-lg-4 col-lg-offset-0 col-sm-6 col-sm-offset-6 col-xs-12 textfooter"><a href="FAQ.php">FAQ</a>
 		</p>
+		<small class="pull-right">
+			Developped for Jeux Drôle by CorKevCle Corporation
+		</small>
 	</div>
 </div>
 

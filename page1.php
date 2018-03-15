@@ -12,9 +12,9 @@
 </head>
 <body>
 
-	<div class="container-fluid">
+	<div class="row container-fluid">
 
-		<header class="row">
+		<header class="">
 
 	<?php include("navbar.php");   ?>
 
@@ -38,19 +38,19 @@
 			       <div class="item active">
 			         <img src="Images/board-game-529586_1920.jpg" alt="...">
 			         <div class="carousel-caption">
-			           <h3>Heading</h3>
+			           <h3>Catane ou l'intensité des échanges</h3>
 			         </div>
 			       </div>
 			       <div class="item">
 			         <img src="Images/dédéd.jpg" alt="...">
 			         <div class="carousel-caption	">
-			           <h3>Heading</h3>
+			           <h3>Les éleveurs ont encore frappé</h3>
 			         </div>
 			       </div>
 						 <div class="item">
 			         <img src="Images/game-2285322_960_720.jpg" alt="...">
 			         <div class="carousel-caption">
-			           <h3>Heading</h3>
+			           <h3>Félicitation à Kévin pour sa victoire au dernier tournoi de Magic</h3>
 			         </div>
 			       </div>
 
@@ -69,7 +69,7 @@
 			<div class="hidden-xs">
 				<img src="Images/Titrerecolore.png" alt="Title" class="img-responsive center-block"/>
 			</div>
-			<p>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br><br>
+			<p><br><br>Vous êtes amateur de jeux de carte, de jeux de plateau ou encore de jeux de rôle mais il vous est difficile de convertir votre entourage ou de réunir suffisamment de monde autour d'un table et rendre votre jeu vraiment intéressant. Ne cherchez plus, vous êtes au bon endroit.<br><br>
 
 			Jeux Drôle réunis un communauté de joueurs actifs organisant et participant régulièrement à des événements en tout genre (thématiques sur un jeu, découverte de plusieurs jeux, jeux de rôle one-shot/campagne, soirée Murder). Avec 42 membres actifs nous disposons d'une base de joueurs en tout genre ravi de se déplacer pour passer un bon moment.<br><br>
 
