@@ -37,19 +37,19 @@
 			     <div class="carousel-inner">
 			       <div class="item active">
 			         <img src="Images/board-game-529586_1920.jpg" alt="...">
-			         <div class="carousel-caption">
+			         <div class="carousel-caption hidden-xs">
 			           <h3>Catane ou l'intensité des échanges</h3>
 			         </div>
 			       </div>
 			       <div class="item">
 			         <img src="Images/dédéd.jpg" alt="...">
-			         <div class="carousel-caption	">
+			         <div class="carousel-caption hidden-xs">
 			           <h3>Les éleveurs ont encore frappé</h3>
 			         </div>
 			       </div>
 						 <div class="item">
 			         <img src="Images/game-2285322_960_720.jpg" alt="...">
-			         <div class="carousel-caption">
+			         <div class="carousel-caption hidden-xs">
 			           <h3>Félicitation à Kévin pour sa victoire au dernier tournoi de Magic</h3>
 			         </div>
 			       </div>
