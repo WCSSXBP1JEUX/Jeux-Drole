@@ -59,7 +59,7 @@
 			Nom de l’organisateur : Emilie Martin <br>
 			Participant max : 5 <br><br>
 			Description de l’event : La fin du monde nous a frappé de plein fouet, les solaires et les lunaires se livrent une bataille sans merci à la surface de notre planète...</p><br>
-			<a href="#" class="btn btn-light form-control change">Info</a><p></p>
+			<a href="page2.php" class="btn btn-light form-control change">Info</a><p></p>
 			</figcaption>
 
 			</figure>
@@ -77,7 +77,7 @@
 			Nom de l’organisateur : Agatha Poirot <br>
 			Participant max : 12 <br> <br>
 			Description de l’event : 1922, la célèbre actrice Maya Toitovna organise une soirée mysticisme dans sa résidence de campagne. Malgré des invitations soigneusement fournies en main propre elle a reçu des menaces de mort...</p><br>
-			<a href="#" class="btn btn-light form-control change">Info</a><p><br></p>
+			<a href="page2.php" class="btn btn-light form-control change">Info</a><p><br></p>
 			</figcaption>
 
 			</figure>
